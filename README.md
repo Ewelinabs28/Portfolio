@@ -6,6 +6,7 @@ My name is Ewelina Białek-Serkis and I recently became interested in the IT ind
 * [JIRA](https://ewelinta.atlassian.net/jira/software/projects/NO1234/boards/1) - workflow and project management,
 * [TestLink](https://testlink.org/) - testing management,
 * [QTest](https://www.tricentis.com/software-testing-tool-trial-demo/qtest-trial) - project management, test cases.
+* [Movavi](https://www.movavi.com/pl/video-editor-plus/?gclid=Cj0KCQiA1NebBhDDARIsAANiDD1IABDUpmWJJkNoxbzLU6d32I7Xv4SUBS_B7uysSSha0NoqSSfelXAaArLAEALw_wcB) - video editor, screen capture software
 # Technical skills
 * SQL
 * Creating test cases
