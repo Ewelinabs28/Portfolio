@@ -5,7 +5,7 @@ Nazywam się Ewelina Białek-Serkis i od niedawna interesuję się branżą IT, 
 #  Narzędzia
 * [JIRA](https://www.atlassian.com/software/jira) - zarządzanie przepływem pracy, projektami,
 * [TestLink](https://testlink.org/) - zarządzanie testami,
-*[QTest](https://www.tricentis.com/software-testing-tool-trial-demo/qtest-trial) - zarządzanie projektami, przypadkami testowymi
+* [QTest](https://www.tricentis.com/software-testing-tool-trial-demo/qtest-trial) - zarządzanie projektami, przypadkami testowymi
 # Umiejętności techniczne
 * SQL
 * Tworzenie przypadków testowych
