@@ -14,6 +14,7 @@ My name is Ewelina Białek-Serkis and I recently became interested in the IT ind
 * Reporting bugs
 # Certificates
 * [Codenga SQl- Level 3](https://codenga.pl/p/certificate/hash/1dezxss78vhcco0cc84g048sgwk8gow)
+* [Codenga GIT - Level 1](https://codenga.pl/p/certificate/hash/g6p4bopftpssoowcgckocksksk44skw)
 # Courses
 * [UDEMY - Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-3889cb37-31f5-4563-b113-68a70567097b/)
 * [UDEMY - kurs Jira od podstaw - zarządzanie projektami](https://www.udemy.com/certificate/UC-574c72fb-155c-4e80-911e-c21730742a64/)
