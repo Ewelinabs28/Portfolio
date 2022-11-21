@@ -25,7 +25,7 @@ My name is Ewelina Białek-Serkis and I recently became interested in the IT ind
 # Webinars
 # Articals
 # My test case examples
-* [Scenaroiusz Testowy](https://docs.google.com/spreadsheets/d/1NkZINjrv8MI-Ll8LEdEFzJX5DEOev_nKzOvpxerlZ_g/edit#gid=1695479590) 
+* [Scenariusz Testowy - program testowy PL](https://docs.google.com/spreadsheets/d/1NkZINjrv8MI-Ll8LEdEFzJX5DEOev_nKzOvpxerlZ_g/edit#gid=1695479590) 
 * [Przypadek testowy - program księgowy PL](https://docs.google.com/spreadsheets/d/1F2x_vP2KyMpKkYiRbfA0GVd5x_dCEp0nPvM5rZE2wo8/edit#gid=2008592430)
 * [Test case - accounting programme ENG](https://docs.google.com/presentation/d/1NLOyOLvahC9go1KMzNGCwWpS8wYKvs6CnAKlDdLyggE/edit#slide=id.g1943b18348d_0_30)
 # My bug reports
