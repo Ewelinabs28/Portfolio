@@ -31,4 +31,5 @@ My name is Ewelina Białek-Serkis and I recently became interested in the IT ind
 * [Test case - accounting programme ENG](https://docs.google.com/presentation/d/1NLOyOLvahC9go1KMzNGCwWpS8wYKvs6CnAKlDdLyggE/edit#slide=id.g1943b18348d_0_30)
 # My bug reports
 * [Zgłaszanie blędu PL](https://docs.google.com/document/d/1Dtr6Lq9pkodoOMKNuK5RNQ73J9pJi95o/edit)
+* [Bug Reports ENG](https://docs.google.com/document/d/18Ji7JXaO3-NCzl9-KZ527SoZiC7I9j-i/edit)
 # My project
